@@ -1,0 +1,86 @@
+@import url('composant/composant.css');
+
+@media screen and (min-width:1000px){  
+    .card-purple {
+            width: 100%
+    }
+
+
+/* body{
+    background-color: blue;
+} */
+/* 
+.titre {
+    margin-top: 3%;
+    margin-left: 45%;
+   font-family: 'Times New Roman', Times, serif;
+   text-decoration: underline;
+}
+
+.presentation {
+    width: 30%;
+   
+    
+
+}
+
+
+.texte1{
+    transform: rotate3d(45deg); scale: (1);
+    margin-top: 3%;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 30%;
+}
+
+.texte2{
+    width: 30%;
+    margin-left: 130%;
+}
+
+/* .texte2 img{
+ 
+  */  
+/*     
+ }
+
+.texte3{
+transform: skew(30deg);
+}
+
+.texte4{
+    transition: all 1s;
+    transform: translate(50em,5em);
+}
+
+.texte4:hover{
+    transform: rotate(45deg);
+   
+}
+
+.texte5{
+    transition: 15s,transform 10s;
+  
+}
+
+.texte5:hover{
+    transform:rotate(45deg);
+}
+
+.texte6{
+    transition: all 1s ease-out 1s;
+}
+
+.texte6:hover{
+    transform: rotate(45deg);
+    background-color: antiquewhite;
+}
+
+.texte7{
+    animation:slideleft 30s;
+}
+
+.texte8 {
+    animation:slidelight 30s;
+}
+     */
+     
